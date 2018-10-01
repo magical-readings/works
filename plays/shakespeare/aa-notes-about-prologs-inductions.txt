@@ -12,8 +12,10 @@ Act 2, Prologue:
 
 The Taming of the Shrew
 -----------------------
-Induction, Scene 1: Before an alehouse on a heath:
+Prolog, Scene 1: Before an alehouse on a heath:
 - say: "Go to Act 0, Scene 1"
 
-Induction, Scene 2: A bedchamber in the Lord's house:
+Prolog, Scene 2: A bedchamber in the Lord's house:
 - say: "Go to Act 0, Scene 2"
+
+For specifics on each play, read the file _notes.txt in corresponding folder.
