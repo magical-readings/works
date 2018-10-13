@@ -9,7 +9,7 @@ For guidance on how to navigate the texts on this web site: [viewing texts](http
 See the above web site for more details.  
 
 ---
-##Plays included:  
+## Plays included:  
 Romeo and Juliet, William Shakespeare, #1  
 Macbeth, William Shakespeare, #2  
 A Midsummer Night's Dream, William Shakespeare, #3  
@@ -26,5 +26,5 @@ As You Like It, William Shakespeare, #13
 Antony and Cleopatra, William Shakespeare, #14  
 
 ---
-##Sample custom script:
+## Sample custom script:  
 Romeo and Juliet, William Shakespeare, #101
