@@ -19,3 +19,4 @@ Prolog, Scene 2: A bedchamber in the Lord's house:
 - say: "Go to Act 0, Scene 2"
 
 For specifics on each play, read the file _notes.txt in corresponding folder.
+
