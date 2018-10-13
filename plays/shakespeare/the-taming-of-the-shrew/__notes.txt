@@ -1,7 +1,0 @@
-The Taming of the Shrew
------------------------
-Prologue, Scene 1
-- this is provided as Act 0 Scene 1
-
-Prologue, Scene 2
-- this is provided as Act 0 Scene 2
